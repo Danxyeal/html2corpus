@@ -1,0 +1,119 @@
+,LABEL,TXT
+0,div specifications,
+1,aside ,
+2,div aside button,
+3,a ,Print
+7,div model number,Model Number : N50 >
+8,select ,
+9,option ,N50-AS031C
+11,option ,N50-123456
+13,option ,N50-234567
+17,div spec area,
+18,ul ,
+19,li ,
+20,span ,Display
+22,div ,
+23,strong ,Panel Size:
+24, ,"Wide Screen 15.6""(39.6cm) 16:9"
+25,br ,
+26,strong ,Panel Type :
+27, ,IPS
+28,br ,
+29,strong ,True Resolution :
+30, ,1920x1080
+31,br ,
+32,strong ,Display Viewing Area(HxV) :
+33, ,344.16  x 193.59  mm
+34,br ,
+35,strong ,Display Surface
+36, ,Glare
+37,br ,
+38,strong ,Pixel Pitch :
+39, ,mm
+40,br ,
+41,strong ,Brightness(Max) :
+42, ,220 cd/㎡
+43,br ,
+44,strong ,Contrast Ratio (Max) :
+45, ,800:1
+46,br ,
+47,strong ,Flicker free
+51,li ,
+52,span ,Video Feature
+54,div ,
+55,strong ,SPLENDID Video Preset Modes :
+56, ,8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)
+57,br ,
+58,strong ,QuickFit (modes) :
+59, ,Yes (Alignment Grid/Photo Modes)
+60,br ,
+61,strong ,GamePlus(modes) :
+62, ,Yes (Crosshair/Timer)
+63,br ,
+64,strong ,Low Blue Light :
+65, ,Yes
+66,br ,
+67,strong ,HDCP support :
+69,br ,
+70,strong ,Auto-rotate :
+71, ,Yes
+72,br ,
+73,strong ,Display Widget
+77,li ,
+78,span ,Convenient Hotkey
+80,div ,Blue Light Filter
+83,li ,
+84,span ,I/O Ports
+86,div ,
+87,strong ,Signal Input :
+88, ,USB Type-C
+91,li ,
+92,span ,Power Consumption
+94,div ,Power Consumption(Typical):<8W*
+95,br ,Power Saving Mode:0W
+96,br ,Power Off Mode:0W
+97,br ,
+100,li ,
+101,span ,Mechanical Design
+103,div ,
+104,strong ,Chassis Colors :
+105, ,Dark gray
+106,br ,
+107,strong ,Slim Design :
+108, ,Yes
+109,br ,
+110,strong ,Super Narrow Bezel Design :
+111, ,Yes
+114,li ,
+115,span ,Dimensions
+117,div ,Phys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm
+118,br ,Box Dimension(WxHxD):434 x 310 x 76 mm
+121,li ,
+122,span ,Weight
+124,div ,Net Weight(Esti.):0.78kg
+125,br ,Gross Weight(Esti.):3.0kg
+128,li ,
+129,span ,Accessories
+131,div ,ASUS Smart Case
+132,br ,DisplayPort™ over USB-C™ cable (USB-C to USB-C)
+133,br ,USB Type-C to A adapter
+134,br ,ZenScreen pen
+135,br ,Quick start guide
+138,li ,
+139,span ,OS Compatibility
+141,div ,"Microsoft Windows, Mac OS, Chrome OS, Linux"
+144,li ,
+145,span ,Compliance and Standards
+147,div ,"Energy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)"
+150,li ,
+151,span ,Note
+153,div ,*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection
+154,br ,
+155,br ,"**Drivers are required for USB 3.0 mode, please find Support Site to download the driver"
+156,br ,
+157,br ,***Brightness may drop to 180 cd/m2 when in USB 3.0 mode
+158,br ,
+159,br ,****Auto Rotate requires the Windows OS and DisplayWidget to be installed
+160,br ,
+161,br ,*****Compatible with Thunderbolt 3
+166,label NBSpecNotic,Buy Microsoft ® Office 2010 to use the full-featured Office software on this PC.

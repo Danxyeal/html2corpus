@@ -1,0 +1,1411 @@
+,LABEL,TXT
+0,div dp container,
+3,div instantOrderUpdate feature div,
+6,div companyCompliancePolicies feature div,
+8,div cerberus feature div,
+9,div cerberus data metrics,
+11,div prsubswidget feature div,
+13,div ppd,
+14,div rightCol,
+15,div tellAFriendBox feature div,
+17,div desktop buybox,
+18,div buybox,
+19,div qualifiedBuybox,
+20,div ,
+21,form addToCart,
+22,input offerListingID,
+23,input session id,
+24,input ASIN,
+25,input isMerchantExclusive,
+26,input merchantID,
+27,input isAddon,
+28,input nodeID,
+29,input sellingCustomerID,
+30,input qid,
+31,input sr,
+32,input storeID,
+33,input tagActionCode,
+34,input viewID,
+35,input rebateId,
+36,input ctaDeviceType,
+37,input ctaPageType,
+38,input usePrimeHandler,
+39,input rsid,
+40,input sourceCustomerOrgListID,
+41,input sourceCustomerOrgListItemID,
+42,input ,
+43,div ,
+44,div ,
+45,div ,
+46,div priceInsideBuyBox feature div,
+47,div ,
+48,span price inside buybox,
+49, ,$367.54
+51,span price inside buybox badge,
+55,div desktop qualifiedBuyBox,
+56,div ,
+57,div invitePlatform feature div,
+59,div pointsInsideBuyBox feature div,
+61,div agsShippingAndIfdInsideBuyBox feature div,
+63,span priceblock ourprice ifdmsg,
+64, ,+ $32.13 Delivery
+67,div shippingMessageInsideBuyBox feature div,
+68,div ,
+69,div ,
+70,div ,
+75,div deliveryPromiseInsideBuyBox feature div,
+76,div ,
+77,div ,
+78,div ,
+79,div dynamicDeliveryMessage,
+80,div ddmDeliveryMessage,
+99,b ,Arrives:
+101, ,28 - 30 Oct
+104,br ,
+105,div ,
+107,b ,Fastest delivery:
+110, ,15 - 19 Oct
+121,div deepCheckPromiseInsideBuyBox feature div,
+123,div promiseBasedBadgeInsideBuyBox feature div,
+124,div ,
+125,div ,
+126,div ,
+131,div addOnMessage feature div,
+133,div availabilityInsideBuyBox feature div,
+134,div ,
+135,div availability,
+136,span ,
+139, ,In stock.
+144,div ,
+148,div globalStoreBadgePopoverInsideBuybox feature div,
+150,div ,
+166,a ,US  imports may differ from local products. Additional terms apply.
+167,span ,
+168,a ,
+169,a ,Learn More.
+170,i ,
+172,div a popover gsBadgePopoverDetails,
+173,h3 ,Amazon Global Store
+174,div ,
+175,ul ,
+176,li ,"International products have separate terms and are sold from abroad and may differ from local products including fit, age rating, and language of product, labeling, or instructions."
+177,li ,Manufacturer warranty may not apply but you may have other rights under law.
+178,li ,Learn more about Amazon Global Store
+184,div quantityRelocate feature div,
+185,div ,
+186,div ,
+187,div selectQuantity,
+188,span ,
+189,div ,
+190,div ,
+191,span quantity,Quantity:
+192,option ,1
+194,option ,2
+196,option ,3
+198,option ,4
+200,option ,5
+202,option ,6
+204,option ,7
+206,option ,8
+208,option ,9
+210,option ,10
+212,option ,11
+214,option ,12
+216,option ,13
+218,option ,14
+220,option ,15
+222,option ,16
+224,option ,17
+226,option ,18
+228,option ,19
+230,option ,20
+232,option ,21
+234,option ,22
+236,option ,23
+238,option ,24
+240,option ,25
+242,option ,26
+244,option ,27
+246,option ,28
+248,option ,29
+250,option ,30
+252,span ,Quantity:1
+260,div quantityAwarePriceRelocate feature div,
+262,div soldByThirdPartyRelocate feature div,
+264,div addToCart feature div,
+265,div ,
+266,span atc declarative,
+267,span submit.add to cart announce,Add to Cart
+270,div ,
+273,div buyNow feature div,
+274,div ,
+275,div buyNow,
+276,div turboState,
+280,span turbo checkout modal,
+281,span submit.buy now announce,
+282, ,Buy Now
+287,div secureTransaction feature div,
+288,div ,
+289,span ,
+290,a ,
+291,span secureTransactionIconWrapper,
+292,img ,
+294,span ,
+295,span ,Secure transaction
+299,div a popover secureTransactionsPopover,
+300,div ,
+301,div ,
+302,div ,
+303,span ,Your transaction is secure
+305,div ,
+306,span ,"We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others."
+307,a ,Learn more
+313,div tabular feature div,
+315,div buybox tabular,
+316,table ,
+317,tr ,
+318,td ,
+319,span ,
+320, ,Ships from
+323,td ,
+324,span ,Amazon US
+327,tr ,
+328,td ,
+329,span ,
+330, ,Sold by
+333,td ,
+334,span ,Amazon US
+339,div buybox tabular show more,
+340,hr ,
+341,span ,
+342,a ,Details
+345,div buybox tabular side sheet content,
+346,div ,
+347,div ,
+348,span ,
+349, ,Ships from
+352,div ,
+353,div ,
+354,span ,Amazon US
+358,hr ,
+359,div ,
+360,div ,
+361,span ,
+362, ,Sold by
+365,div ,
+366,div ,
+367,span sellerProfileTriggerId,Amazon US
+371,hr ,
+373,span ,
+374,div buybox tabular background,
+375,span ,
+376,i buybox tabular close icon,
+383,div quantityLayoutHigh feature div,
+385,div bbop feature div,
+387,div bbop sbbop container,
+388,div sbbop popover header,
+389,div ,
+390,div ,
+391,i ,
+392,div ,
+393, ,ASUS Black 15.6 Inch
+394, ,has been added to your Cart
+402,div voltageCompliance feature div,
+404,div businessPricing feature div,
+406,div soldByThirdParty feature div,
+408,div scheduledDelivery feature div,
+410,div bbg feature div,
+412,div mbb feature div,
+414,div desktop productInsurance feature div,
+416,div quantityLayoutLow feature div,
+418,div simpleBundleV2 feature div,
+420,div asg feature div,
+425,div quantityAwarePrice feature div,
+427,div addToCart feature div,
+429,div preAddToCartFramework feature div,
+433,div buyNow feature div,
+435,div secureTransaction feature div,
+437,div oneClick feature div,
+439,div detailPageGifting feature div,
+441,div warrantyCETech,
+443,div makoPreRegistration,
+444, ,<!--
+445, ,TODO:
+446, ,We use the invitePlatform's view model to make the account linking checkbox Invite/EMWR aware.
+447, ,Ideally we would be checking invite status from the view model factory but AAPI does not have an invite subresource
+448, ,Tracking in CXE-5905
+449, ,-->
+452,div makoCETech,
+454,div accessoryUpsellAmabot feature div,
+456,div accessoryUpsellBtf feature div,
+458,div unifiedLocation feature div,
+462,div digitalDashHighProminence feature div,
+464,div marsAccessoryUpsell feature div,
+466,div addToWishlist feature div,
+467,hr ,
+469,div ,
+473,div addToRegistry feature div,
+475,div digitalDashLowProminence feature div,
+485,div olpLinkWidget feature div,
+487,div all offers display,
+488,div ,
+489,form ,
+490,input all offers display weblab treatment,
+491,input all offers display reload param,
+492,input all offers display params,
+493,input all offers display weblab name,
+494,input all offers display is customizable asin,
+497,span ,
+498,div aod background,
+502,div ,
+505,div tellAFriendBox feature div,
+506,div ,
+507,div ,
+508,div tell a friend,
+509,div ,
+510,a ,Share
+511,a ,
+513,a ,
+514,a ,
+515,a ,
+522,div universalFreshATC feature div,
+524,div tradeInButton feature div,
+526,div moreBuyingChoices feature div,
+527,div all offers display,
+528,div ,
+529,form ,
+530,input all offers display weblab treatment,
+531,input all offers display reload param,
+532,input all offers display params,
+533,input all offers display weblab name,
+534,input all offers display is customizable asin,
+537,span ,
+538,div aod background,
+543,div product ads feedback feature div,
+545,div amsDetailRight feature div,
+547,div servicesInterstitial feature div,
+549,div attachAccessoryModal feature div,
+550,input attach weblabsToTriggerClientSideWhenEmptyAsinList,
+553,div leftCenterCol,
+555,div leftCol,
+556,div imageBlock feature div,
+557,div imageBlock,
+558,div ,
+559,div altImages,
+560,ul ,
+561,li ,
+562,span ,
+563,span ,
+564,img ,
+568,li ,
+569,span ,
+570,span ,
+571,img ,
+575,li ,
+576,span ,
+577,span ,
+578,img ,
+582,li ,
+583,span ,
+584,span ,
+585,img ,
+589,li ,
+590,span ,
+591,span ,
+592,img ,
+596,li ,
+597,span ,
+598,span ,
+599,img ,
+603,li ,
+604,span ,
+606,li ,
+607,span ,
+608,span ,
+609,img ,
+613,li ,
+614,span ,
+615,span ,
+621,div ,
+622,div ,
+623,div main image container,
+624,div video outer container,
+625,div main video container,
+627,div video canvas caption,
+628,div ,
+629,span videoCaption,
+633,div auiImmersiveViewDiv,
+634,div ,
+635,div ,
+636,div ,Image Unavailable
+637,span ,
+638,span ,
+646,ul ,
+647,li ,
+648,span ,
+649,div imgTagWrapperId,
+650,img landingImage,
+654,li ,
+655,span ,
+656,div ,
+657,span ,
+661,li ,
+662,span ,
+663,div ,
+664,span ,
+668,li ,
+669,hza:string softlines dp video flash player,
+670,a ,
+671,hza:string softlines dp video flash player text,
+672,span ,
+679,div image canvas caption,
+680,div ,
+681,span canvasCaption,
+684,div ,
+689,div twister main image,
+690,div thumbs image,
+692,div a popover immersiveView,
+693,div iv tab view container,
+694,ul ,
+695,li ivVideosTabHeading,
+696,a ,
+697, ,VIDEOS
+700,li iv360TabHeading,
+701,a ,
+702, ,360° VIEW
+705,li ivImagesTabHeading,
+706,a ,
+707, ,IMAGES
+711,div ivVideosTab,
+712,div ,
+713,div ivVideoBlock,
+714,div ,
+718,div iv360Tab,
+719,div ,
+720,div ivMain360,
+721,div ivStage360,
+722,div ivLarge360,
+724,div ivThumbColumn360,
+725,div ivTitle360,
+726,div ivVariationSelection360,
+727,div ivThumbs360,
+728,div ,
+729,div ,
+730,div ,
+734,div ,
+738,div ivImagesTab,
+739,div ,
+740,div ivMain,
+741,div ivStage,
+742,div ivLargeImage,
+744,div ivThumbColumn,
+745,div ivTitle,
+746,div ivVariationSelection,
+747,div ivThumbs,
+748,div ,
+749,div ,
+750,div ,
+754,div ,
+760,div ,
+764,div centerCol,
+765,div title feature div,
+767,div titleSection,
+768,h1 title,
+769,span productTitle,
+777, ,ASUS Black 15.6 Inch
+786,div expandTitleToggle,
+789,div bylineInfo feature div,
+790,div ,
+791,a bylineInfo,Brand: ASUS
+794,div cmrsSummary feature div,
+796,div averageCustomerReviews feature div,
+798,div averageCustomerReviews,
+799,span ,
+800,span acrPopover,
+801,span ,
+802,a ,
+803,i ,4.1 out of 5 stars
+804,i ,
+806,span ,
+809,span ,
+810,span ,
+811,a acrCustomerReviewLink,
+812,span acrCustomerReviewText,"5,224 ratings"
+819,div ask feature div,
+820,span ,|
+821,span ,
+822,a askATFLink,
+823,span ,
+824, ,9 answered questions
+829,div acBadge feature div,
+832,div zeitgeistBadge feature div,
+834,hr ,
+835,div desktop unifiedPrice,
+836,div unifiedPrice feature div,
+837,div price,
+838,table ,
+839,tr priceblock ourprice row,
+840,td priceblock ourprice lbl,Price:
+841,td ,
+842,span priceblock ourprice,$367.54
+844,span priceblock ourprice ifdmsg,
+845, ,+ $32.13 Delivery
+847,span ourprice shippingmessage,
+854,div quantityPricingTableSummary feature div,
+857,div promoPriceBlockMessage feature div,
+859,div pmpux feature div,
+861,div issuancePriceblockAmabot feature div,
+863,div iconfarmv2 feature div,
+865,div alternativeOfferEligibilityMessaging feature div,
+866,div ,
+869,div applicablePromotionList feature div,
+871,div availability feature div,
+873,div globalStoreBadgePopover feature div,
+875,div holidayDeliveryMessage feature div,
+877,div dynamicDeliveryMessage feature div,
+879,div deepCheckPromise feature div,
+881,div businessOnlyItem feature div,
+883,div shipsFromSoldBy feature div,
+885,div businessPricing feature div,
+887,div smileEligibility feature div,
+889,div holidayAvailabilityMessage feature div,
+891,div twister feature div,
+892,div twisterContainer,
+893,form twister,
+894,span twisterNonJsData,
+895,input ,
+896,input ,
+897,input ,
+898,input dummySubmitButton,
+900,div variation style name,
+901,div ,
+902,label ,
+903, ,Style Name:
+905,span ,
+907, ,"IPS, USB 3.0 & Type-C"
+911,ul ,
+912,li ,
+913,div ,
+914,span ,
+915,span ,
+916,div ,
+917,div ,
+918,span ,"IPS, USB 3.0 & Type-C"
+920,div ,
+927,li ,
+928,div ,
+929,span ,
+930,span ,
+931,div ,
+932,div ,
+933,span ,USB Type-C and A
+935,div ,
+938,a ,
+943,li ,
+944,div ,
+945,span ,
+946,span ,
+947,div ,
+948,div ,
+949,span ,"Full HD, USB 3.0"
+951,div ,
+954,a ,
+959,li ,
+960,div ,
+961,span ,
+962,span ,
+963,div ,
+964,div ,
+965,span ,"WXGA, USB 3.0"
+967,div ,
+970,a ,
+975,li ,
+976,div ,
+977,span ,
+978,span ,
+979,div ,
+980,div ,
+981,span ,"USB Type-C, Micro-HDMI"
+983,div ,
+986,a ,
+993,div variation size name,
+994,div ,
+995,label ,
+996, ,Size Name:
+998,span ,
+1000, ,15.6 Inch
+1004,ul ,
+1005,li ,
+1006,div ,
+1007,span ,
+1008,span ,
+1009,div ,
+1010,div ,
+1011,span ,15.6 Inch
+1013,div ,
+1020,li ,
+1021,div ,
+1022,span ,
+1023,span ,
+1024,div ,
+1025,div ,
+1026,span ,"15.6 Inch IPS, battery"
+1028,div ,
+1031,a ,
+1036,li ,
+1037,div ,
+1038,span ,
+1039,span ,
+1040,div ,
+1041,div ,
+1042,span ,"15.6 Inch IPS, non-glare"
+1044,div ,
+1047,a ,
+1052,li ,
+1053,div ,
+1054,span ,
+1055,span ,
+1056,div ,
+1057,div ,
+1058,span ,"15.6 Inch IPS, smart case"
+1060,div ,
+1063,a ,
+1068,li ,
+1069,div ,
+1070,span ,
+1071,span ,
+1072,div ,
+1073,div ,
+1074,span ,15.6-Inch
+1076,div ,
+1079,a ,
+1084,li ,
+1085,div ,
+1086,span ,
+1087,span ,
+1088,div ,
+1089,div ,
+1090,span ,17.3 Inch Gaming
+1092,div ,
+1095,a ,
+1104,div ,
+1108,div clickToContact feature div,
+1110,div dpreviewBadge feature div,
+1112,div smartHomeWidget feature div,
+1114,div renewedProgramDescriptionAtf feature div,
+1116,div productOverview feature div,
+1118,div featurebullets feature div,
+1119,div feature bullets,
+1120,ul ,
+1121,li ,
+1122, ,15.6” FHD IPS USB Type-C portable monitor with hybrid signal solution for compatibility with USB Type-C and Type-A sources (Note: DisplayLink driver needed for Type-A connection)
+1125,li ,
+1126, ,Smart cover and smart pen hole allow for landscape and portrait orientations easily with auto rotation. Auto rotate requires the windows os and displaywidget to be installed. Compatible with thunderbolt 3
+1129,li ,
+1130, ,ASUS Eye Care technology with TUV Rheinland-certified flicker-free backlighting and blue light filter minimizes eye fatigue
+1133,li ,
+1134, ,"Easily toggle through advanced display settings with the intuitive ASUS DisplayWidget. Compliance and Standards- Energy Star, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)"
+1137,li ,
+1138, ,Ultra-portable award-winning design at 1.7 pounds and 0.3 inches slim to pair perfectly with ASUS laptops. Product Dimensions- 8.9 x 0.3 x 14.2 inches. Brightness(Max)- 220 cd/㎡
+1145,div globalStoreInfoBullets feature div,
+1147,div amazonGlobal feature div,
+1149,div vendorPoweredCoupon feature div,
+1151,div addOnItem feature div,
+1153,div giftcard holiday availability messaging feature div,
+1156,div andonCord feature div,
+1158,div olp feature div,
+1159,div all offers display,
+1160,div ,
+1161,form ,
+1162,input all offers display weblab treatment,
+1163,input all offers display reload param,
+1164,input all offers display params,
+1165,input all offers display weblab name,
+1166,input all offers display is customizable asin,
+1169,span ,
+1170,div aod background,
+1174,div olp upd new,
+1175,span ,
+1176,a ,
+1177,span ,New (3) from $367.54
+1178,span ,+ $32.13 Delivery
+1182,div edpIngress feature div,
+1184,div newerVersion feature div,
+1186,div valuePick feature div,
+1188,div recommendations feature div,
+1190,div productAlert feature div,
+1193,div hqpWrapper,
+1194,div heroQuickPromo feature div,
+1195,div hero quick promo grid feature div,
+1196,div hero quick promo,
+1197,hr ,
+1198,div universal hero quick promo,
+1199,div ,
+1200,div ,
+1202,div ,
+1203,a ,
+1204,img ,
+1207,div ,
+1208,div ,
+1209,span ,Get 90 days FREE of Amazon Music Unlimited
+1211,div ,
+1212,a ,with the purchase of any eligible product. Shop now
+1219,div ,
+1225,div hover zoom end,
+1226,div bottomRow,
+1227,div twisterJsInitializer feature div,
+1237,div dpx image block variations feature div,
+1239,div imageBlockVariations feature div,
+1243,div dpx btf bundle feature div,
+1245,div dpx mirai btf shopbylook feature div,
+1247,div beautyRecommendations feature div,
+1249,div dpx upsell downsell widget feature div,
+1251,div promotions feature div,
+1252,hr ,
+1253,div quickPromoBucketContent,
+1254,a productPromotions,
+1255,h2 ,Special offers and product promotions
+1256,div ,
+1257,div ,
+1258,ul ,
+1259,li productPromosHidden,Get 90 DAYS FREE of Amazon Music Unlimited with purchase of an eligible product. Listen FREE for 90 days. Learn more here.
+1265,div product details grid feature div,
+1266,a productDetails,
+1267,div productDetails feature div,
+1268,hr ,
+1269,div ,
+1270,div prodDetails,
+1271,h2 ,
+1272, ,Product Information
+1274,span ,
+1286,strong ,"Style Name:IPS, USB 3.0 & Type-C"
+1288, ,|
+1299,strong ,Size Name:15.6 Inch
+1301,div ,
+1302,div ,
+1303,div ,
+1304,div ,
+1305,div ,
+1306,div ,
+1307,h1 ,Technical Details
+1309,a ,Collapse all
+1311,div ,
+1312,div ,
+1313,div ,
+1314,span ,
+1315,a ,
+1317, ,Summary
+1322,div ,
+1323,table productDetails techSpec section 1,
+1324,tr ,
+1325,th ,
+1326, ,Standing screen display size
+1328,td ,
+1329, ,15.6 Inches
+1332,tr ,
+1333,th ,
+1334, ,Max Screen Resolution
+1336,td ,
+1337, ,1920X1080 Pixels
+1343,div ,
+1344,div ,
+1345,span ,
+1346,a ,
+1348, ,Other Technical Details
+1353,div ,
+1354,table productDetails techSpec section 2,
+1355,tr ,
+1356,th ,
+1357, ,Brand
+1359,td ,
+1360, ,ASUS
+1363,tr ,
+1364,th ,
+1365, ,Series
+1367,td ,
+1368, ,ZenScreen MB16AC Monitor
+1371,tr ,
+1372,th ,
+1373, ,Item Model Number
+1375,td ,
+1376, ,MB16AC
+1379,tr ,
+1380,th ,
+1381, ,Product Dimensions
+1383,td ,
+1384, ,22.61 x 0.76 x 36.07 cm; 780.18 Grams
+1387,tr ,
+1388,th ,
+1389, ,Item Dimensions  L x W x H
+1391,td ,
+1392, ,22.6 x 0.8 x 36.1 centimetres
+1395,tr ,
+1396,th ,
+1397, ,Colour
+1401,td ,
+1402, ,Black
+1405,tr ,
+1406,th ,
+1407, ,Computer Memory Type
+1409,td ,
+1410, ,DDR3L-1600 SDRAM
+1413,tr ,
+1414,th ,
+1415, ,Item Weight
+1417,td ,
+1418, ,780 g
+1421,tr ,
+1422,th ,
+1423, ,Manufacturer
+1425,td ,
+1426, ,ASUS Computer International Direct
+1429,tr ,
+1430,th ,
+1431, ,ASIN
+1433,td ,
+1434, ,B071S84ZW7
+1437,tr ,
+1438,th ,
+1439, ,Is Discontinued By Manufacturer
+1441,td ,
+1442, ,No
+1445,tr ,
+1446,th ,
+1447, ,Date First Available
+1449,td ,
+1450, ,8 May 2018
+1459,div ,
+1461,div ,
+1465,div ,
+1466,div ,
+1467,div productDetails db sections,
+1468,h1 ,Additional Information
+1469,div ,
+1470,table productDetails detailBullets sections1,
+1471,tr ,
+1472,th ,Customer Reviews
+1473,td ,
+1475,div averageCustomerReviews,
+1476,span ,
+1477,span acrPopover,
+1478,span ,
+1479,a ,
+1480,i ,4.1 out of 5 stars
+1481,i ,
+1483,span ,
+1486,span ,
+1487,span ,
+1488,a acrCustomerReviewLink,
+1489,span acrCustomerReviewText,"5,224 ratings"
+1495,br ,
+1496, ,4.1 out of 5 stars
+1499,tr ,
+1500,th ,
+1501, ,Best Sellers Rank
+1503,td ,
+1504,span ,
+1505,span ,"5,178 in Computers (See Top 100 in Computers)"
+1506,br ,
+1507,span ,99 in Monitors
+1508,br ,
+1516,div ,
+1517,div ,
+1518,h1 ,
+1519, ,Warranty & Support
+1521,div ,
+1522,table productDetails warranty support sections,
+1523,span ,Amazon.com.au Return Policy:
+1524,span ,"You may return for a full refund for the price you paid within 30 days of delivery any new computer purchased from Amazon that is ""dead on arrival"", arrives in damaged condition or is still in unopened boxes. Amazon may test or inspect returns. If Amazon finds a customer has misrepresented the condition of a return, Amazon may impose a fee equal to up to 15 percent of the merchandise sales price. Any returned computer that is damaged through customer misuse, missing parts, or in unsellable condition due to customer tampering may result in the customer being charged a restocking fee based on the condition of the computer.  This policy does not restrict or alter any non-excludable statutory consumer protections or rights you may have, including under the Australian Consumer Law.  To view full returns terms including return instructions, merchandise-specific requirements and exclusions see our ${hash-get returnsPolicyAnchor}Returns Policy Page. New, used, and refurbished products purchased from Marketplace vendors are subject to the returns policy of the individual vendor."
+1529,div ,
+1537,div dp out of stock top feature div,
+1539,div sims consolidated 1 feature div,
+1540,div ,
+1541,div sims fbt,
+1542,hr ,Frequently bought together
+1543,div sims fbt container,
+1544,div sims fbt content,
+1545,form sims fbt form,
+1546,input ,
+1547,div ,
+1548,ul ,
+1549,li ,+
+1551,div ,
+1552,div ,Total Price: $420.81
+1553,div ,
+1554,span ,Add both to Cart
+1559,div ,These items are shipped from and sold by different sellers. Show details
+1560,div ,"Buy the selected items togetherThis item:ASUS Black 15.6 Inch $367.54 In stock.Ships from and sold by Amazon US.iPad Stand TechMatte Multi-Angle Aluminum Holder for Tablets, E-Readers and Smartphones - Mini Stand $53.27 Ships from and sold by DE Direct."
+1567,div sims consolidated 2 feature div,
+1568,div ,
+1569,div p13n m desktop dp sims session similarities sims feature 2,
+1570,div ,
+1571,hr ,
+1572,div desktop dp sims session similarities sims feature,
+1573,div ,
+1574,div ,Customers who viewed this item also viewedPage 1 of 1 Start overPage 1 of 1
+1575,span ,This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+1576,div ,Back
+1577,li ,
+1578,div ,
+1579,a ,
+1580,div ,
+1581, ,"15.6 Inch Portable Monitor Ultra HD 1920 * 1080 IPS LCD Portable Screen with HDMI/VGA/Built-in Speakers/Audio Input, for PC PS3 PS4 Xbox 360 Windows 7 8 10 Raspberry Pi, Kenowa"
+1584,div ,
+1585,a ,
+1586,i ,3.5 out of 5 stars
+1588,a ,29
+1590,div ,$219.99
+1592,li ,
+1593,div ,
+1594,a ,
+1595,div ,
+1596, ,AOC e1659Fwu 15.6-Inch Ultra Slim 1366x768 Res 200 cd/m2 Brightness USB 3.0-Powered Portable LED Monitor w/Case Black 16-inch USB-C
+1599,div ,
+1600,a ,
+1601,i ,4.0 out of 5 stars
+1603,a ,"4,268"
+1605,div ,$319.09 Usually dispatched within 4 days.
+1607,li ,
+1608,div ,
+1609,a ,
+1610,div ,
+1611, ,"ASUS ZenScreen MB16AC 15.6 inch Full HD Portable USB Monitor, Hybrid Signal Solution, USB Type-C, Flicker Free, Blue Light Filter"
+1614,div ,
+1615,a ,
+1616,i ,4.1 out of 5 stars
+1618,a ,60
+1620,div ,$449.00 Only 3 left in stock (more on the way).
+1622,li ,
+1623,div ,
+1624,a ,
+1625,div ,
+1626, ,"ASUS MB169C+ 15.6 inch Full HD Portable USB Monitor, USB Type-C, IPS, Flicker Free, Blue Light Filter, Smart Case"
+1629,div ,
+1630,a ,
+1631,i ,3.7 out of 5 stars
+1633,a ,12
+1635,div ,$329.00 Only 1 left in stock.
+1637,li ,
+1638,div ,
+1639,a ,
+1640,div ,
+1641, ,"Asus Zenscreen MB16ACE Portable USB Monitor- 15.6 Inch Full HD, Hybrid Signal Solution, USB Type-C, Flicker Free, Blue Light Filter, Anti-Glare Surface"
+1644,div ,
+1645,a ,
+1646,i ,4.5 out of 5 stars
+1648,a ,62
+1650,a ,1 offer from $484.99
+1652,li ,
+1653,div ,
+1654,a ,
+1655,div ,
+1656, ,Portable Monitor - Lepow 15.6 Inch Full HD 1080P USB Type-C Computer Display IPS Eye Care Screen with HDMI Type C Speakers for Laptop PC PS4 Xbox Phone Included Smart Cover & Screen Protector Black
+1659,div ,
+1660,a ,
+1661,i ,4.5 out of 5 stars
+1663,a ,"4,789"
+1665,div ,$492.86 Only 5 left in stock.
+1668,div ,Next
+1669,span ,
+1675,div dpx legal feature div,
+1676,div legal feature div,
+1678,div cpsia product safety warning feature div,
+1680,div ask dp search feature div,
+1682,noscript ,
+1685,div ,
+1686,div ,
+1687,hr ,
+1688,div ,
+1689,h2 ,
+1690, ,Have a question?
+1692,p askDPSearchPromptLabel,
+1693, ,"Find answers in product info, Q&As, reviews"
+1695,div ,
+1696,form ,
+1697,input ,
+1698,input ,
+1699,input ,
+1700,input ,
+1701,input ,
+1702,input ,
+1703,input ,
+1704,input ,
+1705,input ,
+1706,input ,
+1707,input ,
+1708,span ,
+1709,span ,
+1710,span ,
+1711,span ,
+1712,span ,
+1713,span ,
+1714,div ,
+1715,span ,
+1716,div ,
+1717,div ,
+1718,span ,
+1719,i ,
+1730,input ,
+1731,div ,
+1732,span ,
+1734,div ,
+1735,div ,
+1736, ,There was a problem completing your request. Please try your search again later.
+1738,div ,
+1739,span ,
+1740,span ,
+1741,span ,
+1742, ,All
+1746,span ,
+1747,span ,
+1748,span ,
+1749, ,Product Information
+1753,span ,
+1754,span ,
+1755,span ,
+1756, ,Customer Q&A's
+1760,span ,
+1761,span ,
+1762,span ,
+1763, ,Customer Reviews
+1767,hr ,
+1769,div ,
+1772,div a popover ask dpsearch post question modal,
+1773,form ,
+1774,input ,
+1775,input ,
+1776,input ,
+1777,input ,
+1778,input ,
+1779,input ,
+1780,input ,
+1781,input ,
+1782,input ,
+1783,input ,
+1784,input ,
+1785,input ,
+1786,div ,
+1788,p ,
+1789, ,"Your question may be answered by sellers, manufacturers, or customers who purchased this item, who are all part of the Amazon community."
+1791,div ,
+1792,p ,
+1793, ,Please make sure that you've entered a valid question.  You can edit your question or post anyway.
+1795,p ,
+1796, ,Please enter a question.
+1805,div dpx product description feature div,
+1806,div biss product description and details,
+1807,div descriptionAndDetails,
+1808,div productDescription feature div,
+1809,div productDescription feature div,
+1810,div ,
+1811,h2 ,
+1812, ,Product description
+1815,div productDescription,
+1816,div ,
+1821,strong ,"Style Name:IPS, USB 3.0 & Type-C"
+1827, ,|
+1829,strong ,Size Name:15.6 Inch
+1832,p ,"The ideal travel companion for laptops, the 15.6"" Full HD IPS Zen Screen MB16AC USB Type-C portable monitor features the world's first hybrid signal solution.Display Surface - Glare"
+1844,div dpx btf renewed program description feature div,
+1845,div renewedProgramDescriptionBtf feature div,
+1847,div dpx aplus brand story feature div,
+1848,div aplusBrandStory feature div,
+1851,div dpx aplus product description feature div,
+1853,div dpx aplus 3p product description feature div,
+1855,div dpx default important information feature div,
+1856,div importantInformation feature div,
+1859,div sims consolidated 3 feature div,
+1860,div ,
+1861,div p13n m desktop dp sims vtp 60 sims feature 3,
+1862,div ,
+1863,hr ,
+1864,div desktop dp sims vtp 60 sims feature,
+1865,div ,
+1866,div ,What other items do customers buy after viewing this item?Page 1 of 1 Start overPage 1 of 1
+1867,span ,This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+1868,div ,Back
+1869,li ,
+1870,div ,
+1871,a ,
+1872,div ,
+1873, ,"ASUS ZenScreen GO MB16AP 15.6-inch Full HD Portable USB Monitor, Built-in Battery, Hybrid Signal Solution, USB Type-C, Flicker Free, Blue Light Filter"
+1876,div ,
+1877,a ,
+1878,i ,3.6 out of 5 stars
+1880,a ,11
+1882,div ,$521.36 Only 1 left in stock (more on the way).
+1884,li ,
+1885,div ,
+1886,a ,
+1887,div ,
+1888, ,AOC e1659Fwu 16-Inch Ultra Slim 1366x768 Res 200 cd/m2 Brightness USB 3.0-Powered Portable LED Monitor w/Case
+1891,div ,
+1892,a ,
+1893,i ,4.0 out of 5 stars
+1895,a ,"4,268"
+1897,a ,10 offers from $167.95
+1899,li ,
+1900,div ,
+1901,a ,
+1902,div ,
+1903, ,"TEKXDD Portable Monitor -15.6 Inch Metal Frame Ultra-Thin Full HD 1080 IPS Screen Gaming Monitor with HDMI Type-C USB-C, Built-in Dual Speakers / Smart Case Travel Monitor for Laptop, PS4, Xbox, Switch, Phone (Black)"
+1906,div ,
+1907,a ,
+1908,i ,4.0 out of 5 stars
+1910,a ,36
+1912,div ,$289.99 Only 1 left in stock.
+1914,li ,
+1915,div ,
+1916,a ,
+1917,div ,
+1918, ,"ASUS ZenScreen MB16AC 15.6 inch Full HD Portable USB Monitor, Hybrid Signal Solution, USB Type-C, Flicker Free, Blue Light Filter"
+1921,div ,
+1922,a ,
+1923,i ,4.1 out of 5 stars
+1925,a ,60
+1927,div ,$449.00 Only 3 left in stock (more on the way).
+1929,li ,
+1930,div ,
+1931,a ,
+1932,div ,
+1933, ,"ASUS ZenScreen GO MB16AHP 15.6-inch Full HD Portable USB Type-C Monitor, Built-in Battery, USB Type-C, Micro-HDMI, Flicker Free, Blue Light Filter"
+1936,div ,
+1937,a ,
+1938,i ,3.0 out of 5 stars
+1940,a ,8
+1942,div ,$577.98 Only 5 left in stock (more on the way).
+1944,li ,
+1945,div ,
+1946,a ,
+1947,div ,
+1948, ,"15.6 inch Portable Monitor HDMI 1920 x 1080 LCD IPS Screen with Leather Case, (Double Mini HDMI, USB Powered), for PC PS3 PS4 Xbox Raspberry Pi Mac Laptop Windows 7 8 10 iOS Nintendo, Kenowa"
+1951,div ,
+1952,a ,
+1953,i ,3.5 out of 5 stars
+1955,a ,29
+1957,div ,$258.99 Only 2 left in stock.
+1960,div ,Next
+1961,span ,
+1967,div sims consolidated 4 feature div,
+1968,div ,
+1969,div p13n m desktop dp sims purchase similarities sims feature 4,
+1970,div ,
+1971,hr ,
+1972,div desktop dp sims purchase similarities sims feature,
+1973,div ,
+1974,div ,Customers who bought this item also boughtPage 1 of 1 Start overPage 1 of 1
+1975,span ,This shopping feature will continue to load items when the Enter key is pressed. In order to navigate out of this carousel please use your heading shortcut key to navigate to the next or previous heading.
+1976,div ,Back
+1977,li ,
+1978,div ,
+1979,a ,
+1980,div ,
+1981, ,"USB-IF Certified Cable Matters 10 Gbps Gen 2 USB C to USB C Cable with 8K Video and 100W Power Delivery in Black 3.3 Feet, 1m"
+1984,div ,
+1985,a ,
+1986,i ,4.6 out of 5 stars
+1988,a ,398
+1990,a ,1 offer from $78.36
+1992,li ,
+1993,div ,
+1994,a ,
+1995,div ,
+1996, ,"iPad Stand TechMatte Multi-Angle Aluminum Holder for Tablets, E-Readers and Smartphones - Mini Stand"
+1999,div ,
+2000,a ,
+2001,i ,4.7 out of 5 stars
+2003,a ,"1,266"
+2005,div ,$53.27 Usually dispatched within 6 to 10 days.
+2007,li ,
+2008,div ,
+2009,a ,
+2010,div ,
+2011, ,"Exuun (2-Pack) 90 Degree USB C Type C Male to Female Adapter, Right & Left Angled 90 Degree USB-C USB 3.1 Type-C Male to Female Extension Adapter for Laptop & Tablet & Mobile Phone"
+2014,div ,
+2015,a ,
+2016,i ,4.4 out of 5 stars
+2018,a ,684
+2020,a ,1 offer from $83.18
+2022,li ,
+2023,div ,
+2024,a ,
+2025,div ,
+2026, ,NETGEAR WAC104 SOHO Standalone AC1200 Dual Band 802.11ac Access Point
+2029,div ,
+2030,a ,
+2031,i ,4.2 out of 5 stars
+2033,a ,"1,125"
+2035,a ,1 offer from $253.78
+2037,li ,
+2038,div ,
+2039,a ,
+2040,div ,
+2041, ,Simple Mobile Samsung Galaxy J2 4G LTE Prepaid Smartphone (Locked) - Black - 16GB - Sim Card Included - GSM
+2044,div ,
+2045,a ,
+2046,i ,4.5 out of 5 stars
+2048,a ,15
+2050,div ,$155.66
+2052,li ,
+2053,div ,
+2054,a ,
+2055,div ,
+2056, ,"ASUS PCE-AC56, 802.11ac Dual-band Wireless-AC1300 PCI-E Adapter"
+2059,div ,
+2060,a ,
+2061,i ,4.4 out of 5 stars
+2063,a ,"11,086"
+2065,div ,$94.48
+2068,div ,Next
+2069,span ,
+2075,div sponsoredProducts2 feature div,
+2077,div dp ads middle feature div,
+2079,div services widget feature div,
+2081,div center 28 feature div,
+2083,div dp ads center promo feature div,
+2085,div ask btf feature div,
+2086,link ,
+2087,link ,
+2090,div cf ask cel,
+2091,div Ask,
+2092,div ask lazy load div,
+2093,hr ,
+2094,div ,
+2095,div ,
+2096, ,Customer Questions & Answers
+2098,div ,
+2099,a ,See questions and answers
+2101,div ,
+2102,img ,
+2111,a ,
+2112,span cr state object,
+2114,input ,
+2116,div ,Customer reviews4.1 out of 5 stars4.1 out of 5
+2117,span ,"5,222 global ratings"
+2118,div histogramTable,
+2119,table histogramTable,
+2120,tr ,
+2121,td ,
+2122,span ,
+2123,a ,
+2124, ,5 star
+2127,span ,
+2129,td ,
+2130,a ,
+2131,div ,
+2134,td ,
+2135,span ,
+2136,span ,
+2137,a ,
+2139, ,61%
+2145,tr ,
+2146,td ,
+2147,span ,
+2148,a ,
+2149, ,4 star
+2152,span ,
+2154,td ,
+2155,a ,
+2156,div ,
+2159,td ,
+2160,span ,
+2161,span ,
+2162,a ,
+2164, ,16%
+2170,tr ,
+2171,td ,
+2172,span ,
+2173,a ,
+2174, ,3 star
+2177,span ,
+2179,td ,
+2180,a ,
+2181,div ,
+2184,td ,
+2185,span ,
+2186,span ,
+2187,a ,
+2189, ,7%
+2195,tr ,
+2196,td ,
+2197,span ,
+2198,a ,
+2199, ,2 star
+2202,span ,
+2204,td ,
+2205,a ,
+2206,div ,
+2209,td ,
+2210,span ,
+2211,span ,
+2212,a ,
+2214, ,5%
+2220,tr ,
+2221,td ,
+2222,span ,
+2223,a ,
+2224, ,1 star
+2227,span ,
+2229,td ,
+2230,a ,
+2231,div ,
+2234,td ,
+2235,span ,
+2236,span ,
+2237,a ,
+2239, ,10%
+2246,div ,"How are ratings calculated?To calculate the overall star rating and percentage breakdown by star, we don’t use a simple average. Instead, our system considers things like how recent a review is and if the reviewer bought the item on Amazon. It also analyses reviews to verify trustworthiness."
+2247,hr ,
+2248,div ,Review this productShare your thoughts with other customersWrite a customer review
+2249,div ,
+2250,div reviews image gallery,
+2252,div ,Customer images
+2253,img ,
+2254,div ,See all customer images
+2255,span ,
+2257,span ,
+2258,span ,
+2259,div ,
+2260,a customer reviews content,
+2261,div cm cr dp review sort type,
+2262,span ,
+2263,span cm cr sort dropdown,
+2264,option ,
+2265, ,Top reviews
+2267,option ,
+2268, ,Most recent
+2270,span ,Top reviews
+2272,div ,
+2283, ,Top reviews from Australia
+2284,div ,
+2286,div ,There was a problem filtering reviews right now. Please try again later.Harri Vicknarajah5.0 out of 5 stars
+2287,span ,"Quality, compatibility, portability and affordability!!"
+2288,span ,"Reviewed in Australia on 28 September 2020Style Name: IPS, USB 3.0 & Type-CSize Name: 15.6 InchVerified Purchase"
+2289,span ,
+2290,br ,Absolutely fantastic product...Exceptional picture quality; its noticeably better by orders of magnitude than the built in screen if the latest HP elite book (2019-20 model)Most valuable aspect is the portability and compatibility... No other set-up required than plug into USB port and start your PC or laptop
+2292,div ,Read more
+2293,div ,
+2294,span ,
+2295, ,Helpful
+2298,i ,Comment
+2299,span ,Report abuse
+2300,div ,Jason Nott4.0 out of 5 stars
+2301,span ,Does what it says
+2302,span ,"Reviewed in Australia on 21 September 2019Style Name: WXGA, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2303,span ,
+2304, ,I found easy to use plug it in and it takes a few minutes first time then pops up (I didn’t have to install anything and have tried on three different devices). after first time takes 10-20 seconds. Very light and portable which is fantastic. I do find the display a little dull but maybe still need to play around with the see tings a bit for that.
+2306,div ,Read more
+2307,div ,
+2308,span ,
+2309, ,Helpful
+2312,i ,Comment
+2313,span ,Report abuse
+2314,div ,Bret Thump5.0 out of 5 stars
+2315,span ,Fantastic screen
+2316,span ,"Reviewed in Australia on 26 June 2020Style Name: Full HD, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2317,span ,
+2318, ,Great second screen when on the move. Stand is a little fiddly but works OK. You need to download the app to adjust contrast and get auto rotation working but works OK without it if you don't need those options.
+2320,div ,Read more
+2321,div R395PJEL8HE2IX gallerySection main,
+2323,div ,
+2324,img ,
+2325,div ,
+2326,span ,
+2328,div ,
+2329,div ,
+2330,span ,
+2331, ,Helpful
+2334,i ,Comment
+2335,span ,Report abuse
+2336,div ,Sean5.0 out of 5 stars
+2337,span ,perfect laptop companion
+2338,span ,"Reviewed in Australia on 12 July 2020Style Name: Full HD, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2339,span ,
+2340, ,great size screen and well protected with a case. runs from the laptop power and easily connected.
+2342,div ,Read more
+2343,div ,
+2344,span ,
+2345, ,Helpful
+2348,i ,Comment
+2349,span ,Report abuse
+2350,div ,Paul Shane2.0 out of 5 stars
+2351,span ,Poor value for money
+2352,span ,"Reviewed in Australia on 21 September 2020Style Name: WXGA, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2353,span ,
+2354, ,Resolution of monitor not sufficient at this price point
+2356,div ,Read more
+2357,div ,
+2358,span ,
+2359, ,Helpful
+2362,i ,Comment
+2363,span ,Report abuse
+2364,div ,See all reviews
+2366,span ,
+2367,div ,
+2368,span ,
+2369,div reviews medley global expand head,
+2370,h3 ,
+2373, ,Top reviews from other countries
+2379,div ,
+2380,div ,
+2381,div cm cr global review list,
+2382,div ,Amelia G.2.0 out of 5 stars
+2383,span ,Disappointed in Asus
+2384,span ,"Reviewed in the United Kingdom on 29 December 2017Style Name: WXGA, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2385,span ,
+2386,br ,"This product is working well enough, but I was surprised to find that there have been no driver updates for using it with Windows 10, which has resulted in greatly diminished user-friendliness and functionality. Asus has given very little assistance in troubleshooting this issue - the official Asus EZ-link program simply does not work, and I had to dig to find out how to get the screen working. I sat for hours on different troubleshooting forums to figure out how to download the needed DisplayLink drivers to get the screen working for me.The trouble now is that neither the screen brightness adjustment buttons, nor the 'tablet mode' auto-rotation feature, work with the drivers as they are on Windows 10. I am frustrated that this product is advertised with these features, when they are not usable on THE major PC operating system, Windows 10 (which has already been out for 2 years!)Installation was a huge hassle and I have to control the screen brightness with 3rd party software to make it view-able. I am quite surprised that the advertising remains as it is, when there is a 2 year history of problems in functionality. Asus has cornered the market, especially in the UK, when it comes to Portable Monitors, but it seems that being the only option has lead to comfort with major pitfalls. I feel that I was overcharged for inferior product. My screen turns on and transmits an image, but I paid for more than that."
+2388,div ,Read more
+2389,div ,75 people found this helpful
+2390,span ,
+2391,span ,Report abuse
+2392,div ,InTheDark5.0 out of 5 stars
+2393,span ,Great lightweight monitor
+2394,span ,"Reviewed in the United Kingdom on 3 December 2018Style Name: WXGA, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2395,span ,
+2396,br ,"As I often work away from home and often on client site, I miss the benefit of working from home where I have three monitor setup.  I therefore decided to buy a lightweight portable monitor that I could carry around between sites quite easily, adding minimum weight to my already packed rucksack.  This monitor was discounted as a warehouse deal and at the price it was ideal. The screen is larger than my laptop’s but the resolution is exactly the same. Although a higher resolution would have been better for my needs I couldn’t face paying 60% more in price.The monitor normally comes with a standard usb male-B cable, driver disc and protective cover. The monitor is actually quite light and weighs in at a feather-like 800g. The screen connects very easily and my Windows laptop detected and loaded the drivers without needing the CD.PROS- lightweight design- no flickering or shadowing- decent resolution- comes with 3year warranty- sturdy case supplied with monitor- great price- easy to connect and extend desktop- large size screenCONS- resolution could have been better- requires USB male-B cable to connect (missing from box)- feels a bit flimsy- can be difficult to get screen into protective caseOverall this portable monitor works brilliantly and being so light is easy to carry around.  Highly recommended.*** Please could you click Yes if my review has helped you in any way ***"
+2398,div ,Read more
+2399,div ,36 people found this helpful
+2400,span ,
+2401,span ,Report abuse
+2402,div ,Jonathan Ehrlick3.0 out of 5 stars
+2403,span ,MAC USERS DON'T BUY!
+2404,span ,"Reviewed in Canada on 4 February 2019Style Name: Full HD, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2405,span ,
+2406,br ,"I read a ton of reviews like the one I'm now writing before buying this thing... I didn't listen to them, but hopefully I can save somebody from wasting their money on this.It may be a decent screen for PC users, however it's useless on a MacBook. The drivers are all messed up. When you do finally get it working (after hours of un-installing and re-installing drivers), it won't function properly as a 2nd screen inside of the ""System preferences"" - ""Displays"" section. Because it uses ""Display Link"" which is VERY limited. Because of this it also loses out on certain functions that iMovie, Abelton, Garageband, etc... have for additional monitors. You only have 3 size options for the 2nd screen as well: Small, Medium (which cuts the sides off) and Large (which looks ridiculous and cuts even more of screen off) (1920 x 1080, 1280 x 1024 & 1024 x 768) .I also read tons of the reviews saying the brightness was an issue (It's not adjustable at all). I disregarded this when I made my purchase, thinking it wouldn't matter to me... it matters, it matters a lot. The writing on the Asus screen is already really small, with the difference in brightness from my Macbook Screen, it makes it unbearable to look at.I had really high hopes for this screen... It was a cool idea, it just failed too hard. I hope I was able to save you some money."
+2408,div ,Read more
+2409,div ,68 people found this helpful
+2410,span ,
+2411,span ,Report abuse
+2412,div ,Leica1.0 out of 5 stars
+2413,span ,I wish I'd chosen a different monitor
+2414,span ,"Reviewed in the United Kingdom on 19 February 2019Style Name: USB Type-C and ASize Name: 15.6 Inch IPS, batteryVerified Purchase"
+2415,span ,
+2416,br ,"***UPDATE***I've had one of the two monitors I bought replaced as it wouldn't turn on. I bought *another* powered USB hub so that I'm running each monitor on a separate USB hub. All was fine for a couple of weeks and now the new monitor, instead of not turning on, won't turn off. I've been searching for a way to reboot the monitor. Since it's got an internal batter, lord knows when the battery will finally drain. Like most things, I expect it to work after going off and on again.  I've been searching for a button combination that will reboot it. Hopefully Asus will have a firmware update that makes it less buggy and also has a reboot / reset button combination.Some of this is my fault; I am new to this whole portable / USB-C monitor thing.I decided to try a mobile monitor because I live in a small flat with very limited desk space and the small form factor was perfect for the desk space I hace.My main disappointments:*It only works with certain types of USB 3.0 which supports alternative mode display port. So it didn't work with my USB 3.0 HP laptop. It's not new but since I've put 32GB ram and a terrabyte SSD and dock, it's a really well specced PC at this point.*So I couldn't use it with my USB port but found that Moshi Cables sell a bi-directional  4k-capable display port - usb-c cable for a mere 50 quid. I have two of these monitors so I bought two of them. But since it can only be powered by the USB port that didn't work.*I decided to use an oldish MS Surface Pro 2. Which worked with 1 monitor but didn't have enough power for both.So I spent another 35 quid on a powered USB-3 hub. Finally I could have two monitors! Happy!*So all is good-ish, but the monitors randomly power down. They are still partially charged, I took them out of eco mode, I disabled screen dimming / screen off in the windows power control panel and still random power downs.I haven't looked around but I'm guessing there are portable monitors that also have external power supply, which would have worked with the Moshi cable, but I it's too much of a faff to pack up everything and get new monitors and swap the PCs out again so I'll live with it I guess.It's really disappointing though; I've always trusted Asus as a brand to make highly-functional products but don't feel this product fits that description."
+2418,div ,Read more
+2419,div ,21 people found this helpful
+2420,span ,
+2421,span ,Report abuse
+2422,div ,Alf1.0 out of 5 stars
+2423,span ,POOR QUALITY STAND MAKES FRAGILE SCREEN VULNERABLE TO ACCIDENTAL DAMAGE
+2424,span ,"Reviewed in the United Kingdom on 30 January 2019Style Name: Full HD, USB 3.0Size Name: 15.6-InchVerified Purchase"
+2425,span ,
+2426, ,"The basis concept of this portable screen is brilliant. With the couple of weeks I was able to use it after purchase, it made remote working much more productive. Unfortunately the screen is now smashed and unusable :-( This was because of an accident on my part, but I think the case that converts into a stand is a weak-point of the product and buyers should beware. The case is essentially only a 'prop' - there is nothing fixed to or retaining the screen. When plugging the screen into my PC I caught the top corner with my cuff and it fell forward easily, pivoting over the tab at the base and continuing to fall forward onto my slim-keyboard. This was enough to smash the screen. DETAILS: The screen is not secured in any fixed way. SEE PICS: Its back edge just leans back, at an angle which is only about 12 degree off vertical, onto the folded case which provides a 45mm high support along the full length of its bottom edge (in total, about 365mm). At the front edge, there is a small retaining tab made of stiff, flip up case material which is located in the middle; it's only about 5mm high and 50mm long only. The combination of 'upright' lean back angle, lack of retainer and pivot point at the front bottom edge made what is likely to be a typical 'accidental contact' quickly turn into disaster. I contacted ASUS support as recommended by Amazon support. I explained exactly what happened, and noted my concerns about the stand and asked if they could offer any form of customer support. ASUS replied “Please note that we do not repair the monitors, the warranty is a replacement warranty only. Asus is the manufacture and cannot be seen as a seller, we do not sell our products directly to customers. I am sorry to let you know that we cannot repair the monitor, and we cannot replace the monitor for another one at a reduced price. Our apologies for the inconveniences caused to you.” So no real help available anywhere. If you do decide to buy this screen I'd think about buying the insurance Amazon offer and I'd caution against using the case as a stand and get something more secure. For the replacement screen I purchased I also bought this Anker Portable Stand, which seems very solid and you could add velcro tape if you want to make it even more secure: https://www.amazon.co.uk/gp/product/B00N2EOK8O/ref=ppx_yo_dt_b_asin_title_o02__o00_s00?ie=UTF8&psc=1  . All in all a bit of disappointing learning curve and expensive experience."
+2428,div ,Read more
+2429,div RAA4KIDJB7D3H gallerySection main,
+2431,div ,
+2432,img ,
+2433,div ,
+2434,div ,16 people found this helpful
+2435,span ,
+2436,span ,Report abuse
+2437,div ,See all reviews
+2447,div dpx ajax block components feature div,
+2448,div ajaxBlockComponents feature div,
+2455,input 1click tsdelta,
+2461,div ,
+2462,div nav prime tooltip,
+2463,div ,Get FREE delivery with Amazon Prime
+2464,div ,"Prime members enjoy FREE Delivery and exclusive access to movies, TV shows, music, Kindle e-books, Twitch Prime, and more."
+2465,div ,
+2466, ,>
+2467,a ,Get Started

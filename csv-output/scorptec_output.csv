@@ -1,0 +1,439 @@
+,LABEL,TXT
+0,div main container,
+1,div javascript bar,
+2,span ,PLEASE NOTE:
+3, ,We've noticed that the browser's Javascript setting have been turned off or your browser doesn't support
+4, ,Javascript.
+5, ,Scorptec requires Javascript to function properly. Please enable javascript in your browser settings.
+6,label nojs,I
+7, ,"Understand, close this message."
+9,div cookie bar,
+10,div ,
+11,span ,PLEASE NOTE: We've noticed that the browser
+12, ,cookie setting has been turned off. Scorptec requires cookies to be enabled for member login and shopping
+13, ,carts to work. Please enable cookies in your browser settings.
+18,div login modal,
+19,div ,
+20,div ,
+21,div ,
+22,button ,×
+24,div login image,
+25,div log failed,The email address or password you entered do not match our records. Please try again.
+26,img ,
+28,div login wrap,
+29,form ,
+30,input ,
+31,input log email,
+32,input log password,
+33,div ,
+34,button btn login,LOGIN
+36,div forgot pass wrap,
+37,a forgot pass,ForgottenPassword?
+39,div ,
+40,div ,
+41,a ,Don't have an account? Create one now!
+44,div ,
+45,div ,
+46,a ,
+48,div ,
+49,a ,Log In with Facebook
+51,div ,
+57,div support menu,
+58,div ,
+60,div top menu,
+61,ul ,
+62,li ,
+63,h3 ,
+64,a ,
+65, ,About Us
+69,li ,
+70,h3 ,
+71,a ,
+72, ,Contact Us
+76,li ,
+77,h3 ,
+78,a ,
+79, ,Stores
+83,li ,
+84,h3 ,
+85,a ,
+86, ,Support
+90,li ,
+91,h3 ,
+92,a ,
+93, ,Services
+97,li ,
+98,h3 ,
+99,a ,
+100, ,On Site
+104,li ,
+105,h3 ,
+106,a ,
+107, ,Merchandise
+111,li ,
+112,h3 ,
+113,a ,
+114, ,Warranty
+118,li ,
+119,h3 ,
+120,a ,
+121, ,Jobs
+125,li ,
+126,h3 ,
+127,a ,
+128, ,Site Map
+134,div mobile logo,
+135,button mobile menu,
+136,i ,
+138,a logo,
+140,div ,
+141,div login box,
+142,div member title,
+143,div member option,
+144,a settings,Account
+145, ,|
+146,a logout,Logout
+147, ,|
+148,a cart menu,Cart(0)
+150,div member option hidden,
+151,a settings current,Account
+152, ,|
+153,a logout not login,Logout
+156,div button top wrap,
+157,button login btn,LOGIN
+158,button register,REGISTER
+159,div top cart mobile,
+160,i ,(0)
+162,div login btn mobile,
+163,i ,
+171,div search box,
+172,table quicksearch,
+174,div header,
+175,div ,
+176,a main logo,
+178,div ,
+179,form ,
+180,div main search,
+181,input sli search 1,
+182,span ,
+183,button ,Search
+188,div ,
+189,div social wrap,
+190,a ,
+191,a ,
+192,a ,
+194,div small cart,
+195,div cart logo,
+196,a ,
+198,div cart text,
+199,div ,
+200,a ,
+201,span cart total item,$0.00  0 item
+204,div ,
+205,a ,
+206,img ,View Cart
+209,a checkout url,
+210,img ,Checkout
+214,div ,
+218,div ,COVID-19: VIC RETAIL OPERATING AS CONTACTLESS DRIVE AND COLLECT ONLY. NSW RETAIL CLICK & COLLECT ONLY. Learn More
+220,div ,
+221,div breadcrumbs,
+222,div ,
+223,h2 ,
+224,a ,
+225, ,Home
+227, ,>
+228,a ,
+229, ,Peripherals & Audio Visual
+231, ,>
+232,a ,
+233, ,Monitors
+235, ,>
+236,a ,
+237, ,17-22 inch
+239, ,>
+240,a ,
+241, ,ASUS
+243, ,>
+244,span ,MB16AC
+247,div ,
+248,h2 ,
+249,a ,
+250,i ,
+251, ,Home
+255,div ,
+256,h1 ,MB16AC
+258,div ,
+264,div ,
+268,div warranty d,
+269,div ,
+270,div ,
+271,div ,
+272,button ,×
+273,div modaltitle D,Warranty Information
+275,div modalbody d,
+276,p ,"One important thing to understand with computer monitors is that each panel is unique due to the manufacturing process. Especially with IPS panels and other new technologies, there may be inconsistencies in backlight and bright and dark spots. Most manufacturers will have a specific tolerance for these spots or back-light bleed as it is simply impossible to sell or guarantee these type of products against these sort of inconsistencies. To view Asus's panel policy, please visit the link below:"
+277,br ,
+278,strong ,ASUS Panel Policy
+283,div product wrapper,
+284,div image slide,
+285,div carousel example generic,
+286,ol ,
+287,li ,
+288,li ,
+289,li ,
+290,li ,
+291,li ,
+292,li ,
+294,div ,
+295,div ,
+296,img ,
+297,div ,
+299,div ,
+300,img ,
+301,div ,
+303,div ,
+304,img ,
+305,div ,
+307,div ,
+308,img ,
+309,div ,
+311,div ,
+312,img ,
+313,div ,
+315,div ,
+316,img ,
+317,div ,
+320,a ,
+321,span ,
+322,span ,Previous
+324,a ,
+325,span ,
+326,span ,Next
+330,div image still,
+331,div big image,
+332,a ,
+333,img ,
+335,div main big image,
+336,div ,
+337,div main big image inside,
+338,a ,
+339,img large image,
+341,img large image1,
+346,ul carousel,
+347,li ,
+348,a 140130,
+349,img ,
+352,li ,
+353,a 140131,
+354,img ,
+357,li ,
+358,a 140132,
+359,img ,
+362,li ,
+363,a 140133,
+364,img ,
+367,li ,
+368,a 140134,
+369,img ,
+372,li ,
+373,a 140135,
+374,img ,
+378,div ,
+379, ,*Actual product may differ from images.
+382,div ,
+383,h1 product name,ASUS ZenScreen MB16AC 15.6inch Full HD Portable USB IPS Monitor
+384,div ,
+385,div ,MB16AC
+386,div btn warranty,Warranty: 3 year
+388,h2 ,"ASUS MB16AC 15.6inch Full HD Portable USB IPS Monitor, 1920x1080, 800:1 Contrast, USB Type-C, Hybrid Signal Solution, Flicker Free, Blue Light Filter"
+389,div ,
+391,hr ,
+392,div status wrapper,
+393,div left status wrapper,
+394,div delivery wrapper,
+395,div ,
+396,i ,Delivery
+398,div ,
+399,span ,
+400, ,In Stock
+403,div ,
+405,div collect wrapper,
+406,div ,
+407,i ,Pickup
+409,div ,
+410,a 69580,
+411, ,Limited Stock
+414,div ,
+416,div ,
+418,div right status wrapper,
+419,img ,
+421,div ,
+423,hr ,
+424,div price wrapper,
+425,div price price,
+426, ,$449.00
+428,div ,
+431,div price qty,
+432,div ,Quantity:
+433,div main cart qty,
+434,div ,
+436,div price addcart,
+437,a ,
+438,div ,
+439, ,add to cart
+443,div price mobile addcart,
+444,a ,
+445,div ,
+447, ,add to cart
+450,div ,
+451,span ,
+454,div ,
+456,div qty wrapper,
+458,div ,
+459,div ,
+460,div zip marketing,
+461,a calc ,
+463,div ,
+465,hr ,
+466,div freight wrapper,
+467,div freight title,Freight Estimate:
+468,div freight input,
+469,div product postcode,
+470,input freight postcode,
+471,span ,
+472,button ,Clear
+476,div frgMessage,
+477,div ,
+479,div aus freight,
+480,div ,Auspost Standard: $99
+481,div ,Auspost Express: $99
+483,div courier freight,
+484,div ,Courier Standard: $99
+485,div ,Courier Express: $99
+488,hr ,
+491,div product tab wrapper mobile,
+492,div features mobile,
+493,div ,Features
+494,div ,
+495,div ,
+497,div features tab content mobile,
+498,div specs mobile,
+499,div ,Specs
+500,div ,
+501,div ,
+503,div specs tab content mobile,
+504,div enquiry mobile,
+505,div ,Enquiry
+506,div ,
+507,div ,
+509,div enquiry tab content mobile,
+510,div also mobile,
+511,div ,Also Bought
+512,div ,
+513,div ,
+515,div also tab content mobile,
+516,div review mobile,
+517,div ,Review
+518,div ,
+519,div ,
+521,div review tab content mobile,
+523,div ,
+524,div ,
+525,div ,
+526,ul product4tabs,
+527,li get features pane,Features
+528,li ,Specs
+529,li ,Enquiry
+530,li also tab,Also Bought
+531,li ,Review
+533,div product4tabs content,
+534,div features,
+535,div features tab content,
+537,div specs,
+538,div specs tab content,
+540,div enquiry,
+541,p ,
+542,br ,"Customer service staff are standing by to assist you, Six days a week."
+543,br ,"Should you have questions or feedback on how we can do better, please complete the form below and we'll be in touch soonest possible."
+544, ,We aim to answer your enquiries within 48 hours.
+546,form prod enq,
+547,input g recaptcha id version,
+548,input form name,
+549,input dimension,
+550,input ,
+551,input ,
+552,input ,
+553,input ,
+554,input ,
+555,div ,
+556,label ,Department:
+557,div ,
+558,select mail,
+559,option ,--Please Select--
+560,option ,General Sales Enquiry
+561,option ,Technical Sales Enquiry
+562,option ,"Any feedback, updates or suggestions"";"
+566,div ,
+567,label ,Your Name:
+568,div ,
+569,input cust name,
+572,div ,
+573,label ,Your Email:
+574,div ,
+575,input cust eml,
+578,div ,
+579,label ,Postcode:
+580,div ,
+581,input cust postcode,
+584,div ,
+585,label ,Enquiry:
+586,div ,
+587,textarea cust enquiry,
+590,div ,
+591,label ,
+592,span ,
+593, ,This site is protected by reCAPTCHA and the Google
+594,a ,Privacy Policy and
+595,a ,Terms of Service apply.
+597,div ,
+598,br ,Note:
+599, ,"For freight charge estimates, please see above."
+601,div ,
+602,input submit prod enq,
+603,input submit form,
+608,div also,
+609,h3 ,Customers who bought this product also purchased the following items:
+610,div also list,
+612,div related,
+613,div ureview,
+614,div feefo product review widgetId,
+620,div ,
+621,div grey add to cart,
+622,div text,
+623, ,ASUS ZenScreen MB16AC 15.6inch Full HD Portable USB IPS Monitor
+625,div price,
+626, ,$449.00
+628,div qty,
+629,span main cart qty bottom,Quantity:
+631,div btn,
+632,a ,
+633,div ,
+635, ,add to cart
+639,div ,
+642,div stock modal availability,
+643,div ,
+644,div ,
+645,div ,
+646,button ,×
+647,div modaltitle availability,
+649,div modalbody availability,
+658,div stock modal,
+659,div ,
+660,div ,
+661,div ,
+662,button ,×
+663,div modaltitle,Modal title
+665,div modalbody,
+666,p ,One fine body…
+671,div ,
