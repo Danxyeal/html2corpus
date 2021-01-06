@@ -18,38 +18,35 @@ def soup_lines(lines):
     
 def unwrap_format_tags(soup):
     format_tags = ['b', 'div', 'strong', 'i', 'em', 'mark', 'span', 'sup']
-    for tag in soup.findAll(format_tags):
+    for tag in soup.find_all(format_tags):
         tag.unwrap()
     return soup
 
 
-def discard_script_and_style(soup):
-    for s in soup.findAll('script'):
+def discard_script_style_and_link_tags(soup):
+    for s in soup.find_all('script'):
         s.extract()
-    for s in soup.findAll('style'):
+    for s in soup.find_all('style'):
         s.extract()
-    for s in soup.findAll('link'):
+    for s in soup.find_all('link'):
         s.extract()
     return soup
 
 def get_body_main(tag, selector, html_input='index.html', use_id=True, is_string=False):
-    product_dictionary = {
-        'main_tag': tag,
-        'main_div_id': selector,
-    }
-    html_string = ''
     if not is_string:
         with open(html_input, 'r') as input_file:
             html_string = input_file.read()
     html_string = tag_lines(html_string)
     soup = BeautifulSoup(html_string, 'html.parser')
-    soup = discard_script_and_style(soup)
-    soup_body_main = soup.find(tag, id=id)
-    product_dictionary.update({'html_body_string': str(soup_body_main)})
-    product_dictionary.update({'raw_html':html_string.replace('\n','')})
-    product_dictionary.update({'body_text':soup.get_text()})
-    product_dictionary.update({'page_title': soup.find('title').text})
-    return product_dictionary
+    return {
+        'main_tag': tag,
+        'main_div_id': selector,
+        'soup_main': soup.find(tag, id=selector),
+        'clean_soup': discard_script_style_and_link_tags(soup),
+        'raw_html': html_string.replace('\n', ''),
+        'body_text': soup.get_text(),
+        'page_title': soup.find('title').text,
+    }
 
 def remove_chars(sentence,chars):
     return ''.join([c for c in sentence if c not in chars])
